@@ -29,40 +29,40 @@ const Sidebar = ({ isCollapsed, toggleCollapse }) => {
       type: "playlist",
       title: "My Spotify playlist",
       owner: "Abhinav Sharma",
-      cover: "/src/assets/my_spotify_playlist.png",
+      cover: "/assets/my_spotify_playlist.png",
     },
     {
       type: "playlist",
       title: "Tony Stark Mode On",
       owner: "Abhinav Sharma",
-      cover: "/src/assets/tony_stark_ply.png",
+      cover: "/assets/tony_stark_ply.png",
     },
     {
       type: "playlist",
       title: "Mi Fe",
       owner: "Frank Miami",
-      cover: "/src/assets/mifi.png",
+      cover: "/assets/mifi.png",
     },
     {
       type: "artist",
       title: "Arjit Singh",
-      cover: "/src/assets/arjit_singh.png",
+      cover: "/assets/arjit_singh.png",
     },
     {
       type: "album",
       title: "The End Is Where We Begin",
       owner: "Thousand Foot Krutch",
-      cover: "/src/assets/the_end_is_where_we_begin.png",
+      cover: "/assets/the_end_is_where_we_begin.png",
     },
     {
       type: "artist",
       title: "Alan Walker",
-      cover: "/src/assets/alan_walker.webp",
+      cover: "/assets/alan_walker.webp",
     },
     {
       type: "artist",
       title: "Imagine Dragons",
-      cover: "/src/assets/imagine_dragon.jpeg",
+      cover: "/assets/imagine_dragon.jpeg",
     },
   ]);
 

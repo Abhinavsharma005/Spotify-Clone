@@ -63,48 +63,48 @@ const todaysHitsData = [
     {
         id: 0, 
         name: "Faded", 
-        image: "/src/assets/img_faded.png", 
-        file: "/src/assets/song_faded.mp3", 
+        image: "/assets/img_faded.png", 
+        file: "/assets/song_faded.mp3", 
         desc: "Alan Walker", 
         duration: "3:32"
     },
     {
         id: 1, 
         name: "Shape of You", 
-        image: "/src/assets/img_shapeofyou.png", 
-        file: "/src/assets/song_shapeofyou.mp3", 
+        image: "/assets/img_shapeofyou.png", 
+        file: "/assets/song_shapeofyou.mp3", 
         desc: "Ed Sheeran", 
         duration: "3:53"
     },
     {
         id: 2, 
         name: "Blinding Lights", 
-        image: "/src/assets/img_blindinglights.jpeg", 
-        file: "/src/assets/song_blindinglights.mp3", 
+        image: "/assets/img_blindinglights.jpeg", 
+        file: "/assets/song_blindinglights.mp3", 
         desc: "The Weeknd", 
         duration: "3:20"
     },
     {
         id: 3, 
         name: "Peaches", 
-        image: "/src/assets/img_peaches.jpeg", 
-        file: "/src/assets/song_peaches.mp3", 
+        image: "/assets/img_peaches.jpeg", 
+        file: "/assets/song_peaches.mp3", 
         desc: "Justin Bieber", 
         duration: "3:18"
     },
     {
         id: 4, 
         name: "Alag Aasmaan", 
-        image: "/src/assets/img_alagaasmaan.jpeg", 
-        file: "/src/assets/song_alagaasmaan.mp3", 
+        image: "/assets/img_alagaasmaan.jpeg", 
+        file: "/assets/song_alagaasmaan.mp3", 
         desc: "Anuv Jain", 
         duration: "2:57"
     },
     {
         id: 5, 
         name: "End of Beginning", 
-        image: "/src/assets/img_endofbeginning.png", 
-        file: "/src/assets/song_endofbeginning.mp3", 
+        image: "/assets/img_endofbeginning.png", 
+        file: "/assets/song_endofbeginning.mp3", 
         desc: "Djo", 
         duration: "3:00"
     },
@@ -114,48 +114,48 @@ const bollywoodHitsData = [
     {
         id: 200, 
         name: "London Thumakda", 
-        image: "/src/assets/img_thumakda.png",
-        file: "/src/assets/song_thumakda.mp3",
+        image: "/assets/img_thumakda.png",
+        file: "/assets/song_thumakda.mp3",
         desc: "Ghar ke log (Queen)", 
         duration: "3:53"
     },
     {
         id: 201, 
         name: "Pal Pal Dil Ke Paas", 
-        image: "/src/assets/img_palpal.jpeg", 
-        file: "/src/assets/song_palpal.mp3", 
+        image: "/assets/img_palpal.jpeg", 
+        file: "/assets/song_palpal.mp3", 
         desc: "Kishore Kumar", 
         duration: "4:00"
     },
     {
         id: 202, 
         name: "Gallan Goodiyaan", 
-        image: "/src/assets/img_goodiyaan.jpg", 
-        file: "/src/assets/song_goodiyaan.mp3", 
+        image: "/assets/img_goodiyaan.jpg", 
+        file: "/assets/song_goodiyaan.mp3", 
         desc: "Ghar ke log (Dil Dhadakne Do)", 
         duration: "4:56"
     },
     {
         id: 203, 
         name: "Radha Kaise Na Jale", 
-        image: "/src/assets/img_radha.jpg", 
-        file: "/src/assets/song_radha.mp3", 
+        image: "/assets/img_radha.jpg", 
+        file: "/assets/song_radha.mp3", 
         desc: "A. R. Rahman (Lagaan)", 
         duration: "5:34"
     },
     {
         id: 204, 
         name: "Hookah Bar", 
-        image: "/src/assets/img_hookah.jpeg", 
-        file: "/src/assets/song_hookah.mp3", 
+        image: "/assets/img_hookah.jpeg", 
+        file: "/assets/song_hookah.mp3", 
         desc: "Khiladi 786", 
         duration: "4:15"
     },
     {
         id: 205, 
         name: "Tu Jaane Na", 
-        image: "/src/assets/img_tujanena.jpeg", 
-        file: "/src/assets/song_tujanena.mp3", 
+        image: "/assets/img_tujanena.jpeg", 
+        file: "/assets/song_tujanena.mp3", 
         desc: "Atif Aslam (Ajab Prem Ki Ghazab Kahani)", 
         duration: "5:41"
     },
