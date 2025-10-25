@@ -283,3 +283,4 @@ const DisplayHome = ({ setDynamicBgColor, defaultBgColor }) => {
 }
 
 export default DisplayHome
+//1
