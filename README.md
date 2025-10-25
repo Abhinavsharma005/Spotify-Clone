@@ -19,6 +19,4 @@ A concise desktop-like Spotify UI built with React and Tailwind — search track
 
 - Designed for desktop experience.
 
-## License
 
-- MIT
